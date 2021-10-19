@@ -2,7 +2,7 @@
 
 int main(int argv, char **argc)
 {
-    printf("Hellow orld\n");
+    printf("Hellow orld,\nhellow GitHub!");
 
     return(0);
 }
